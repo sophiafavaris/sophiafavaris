@@ -14,10 +14,6 @@
   Construindo projetos, aprendendo todos os dias e transformando ideias em soluções.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=E91E63&center=true&vCenter=true&width=750&lines=Bem-vindo(a)+ao+meu+GitHub!;Estudante+de+ADS;Java+•+Python+•+HTML+•+SQL;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo!" />
-</p>
-
 ---
 
 ## 🌸 Sobre mim
