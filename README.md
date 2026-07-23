@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Olá, eu sou Sophia Favaris
+  Olá, eu sou Sophia Favaris
 </h1>
 
 <h3 align="center">
